@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-netmonweb-dev-142917-authRole",
+            "UnauthRoleArn": "arn:aws:iam::550242634420:role/amplify-netmonweb-dev-142917-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::550242634420:role/amplify-netmonweb-dev-142917-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-netmonweb-dev-142917-deployment",
+            "UnauthRoleName": "amplify-netmonweb-dev-142917-unauthRole",
+            "StackName": "amplify-netmonweb-dev-142917",
+            "StackId": "arn:aws:cloudformation:us-east-2:550242634420:stack/amplify-netmonweb-dev-142917/35660210-1ae6-11eb-a703-02e1fe29a788",
+            "AmplifyAppId": "d1bguu6kxjrka5"
+        },
+        "categories": {
+            "auth": {
+                "netmonweb620a5c3b": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1bguu6kxjrka5",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
